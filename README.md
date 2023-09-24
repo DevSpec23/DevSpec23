@@ -10,15 +10,6 @@ I'd appreciate it if you could read the details below.<br/>
 
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white" style="height : 30px; margin-left : 10px; margin-right : 10px;"/><a href="https://dlberic23.tistory.com/"><img src="https://img.shields.io/badge/Dev Blog-FDC43E?style=flat-square&logo=Tistory&logoColor=white" style="height : 30px; margin-left : 10px; margin-right : 10px;"/> </a><img src="https://img.shields.io/badge/육군만기전역-Military Service-25A162?style=flat-square&logo=&logoColor=white" style="height : 30px; margin-left : 10px; margin-right : 10px;"/>
 
-# Education
-2017 ~ 2019<br/> 
-### Seneca College <br/> 
-Computer Science (2 years program | Associate Degree)
-
-### St.Andrew High School Vitoria, B.C
-### Century High School (Credit School) Vancouver B.C<br/><br/>
-
-
 # Skills
 ### Programming Languages <br/>
 <img src="https://img.shields.io/badge/C Sharp-512BD4?style=flat-square&logo=C Sharp&logoColor=white" style="height : 30px; margin-left : 5px; margin-right : 5px;"/> <img src="https://img.shields.io/badge/.Net-512BD4?style=flat-square&logo=.Net&logoColor=white" style="height : 30px; margin-left : 5px; margin-right : 5px;"/> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white" style="height : 30px; margin-left : 5px; margin-right : 5px;"/> <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white" style="height : 30px; margin-left : 5px; margin-right : 5px;"/>
