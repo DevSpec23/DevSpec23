@@ -1,4 +1,5 @@
 # Eric Kim | Living In Canada | From South Korea
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDevSpec23&count_bg=%23E167A2&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 Hello, I'm Eric from Korea. I am currently staying in Canada, and it has been about 16 years. <br/>
 My current status is a permanent resident, and I have worked in various jobs in Canada. <br/>
