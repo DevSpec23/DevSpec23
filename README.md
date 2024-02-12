@@ -7,7 +7,7 @@ I'd appreciate it if you could read the details below.<br/>
 <br/>
 안녕하세요. 저는 현재 캐나다에서 거주하고 있는 영주권자이면서 한국 국적을 소유한 Eric Kim이라고 합니다.<br/>
 다양한 업종에서 회사생활과 개인사업자로 일을 했었으며, 개인 사업자로 경력은 4년정도 됩니다. 현재 우리나라<br/>
-와 캐나다 양쪽에서 활동할 계획을하고 있습니다. 다양한 개발언어를 4~6개월은 최소한 경험해보았습니다. 
+와 캐나다 양쪽에서 활동할 계획을하고 있습니다. 
 
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white" style="height : 30px; margin-left : 10px; margin-right : 10px;"/> <a href="https://dlberic23.tistory.com/"><img src="https://img.shields.io/badge/Dev Blog-FDC43E?style=flat-square&logo=Tistory&logoColor=white" style="height : 30px; margin-left : 10px; margin-right : 10px;"/> </a>
 
