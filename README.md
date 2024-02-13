@@ -9,7 +9,7 @@ I'd appreciate it if you could read the details below.<br/>
 다양한 업종에서 회사생활과 개인사업자로 일을 했었으며, 개인 사업자로 경력은 4년정도 됩니다. 현재 우리나라<br/>
 와 캐나다 양쪽에서 활동할 계획을하고 있습니다. 
 
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white" style="height : 30px; margin-left : 10px; margin-right : 10px;"/> <a href="https://dlberic23.tistory.com/"><img src="https://img.shields.io/badge/Dev Blog-FDC43E?style=flat-square&logo=Tistory&logoColor=white" style="height : 30px; margin-left : 10px; margin-right : 10px;"/> </a>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white" style="height : 30px; margin-left : 10px; margin-right : 10px;"/> 
 
 # Skills
 ### Programming Languages <br/>
