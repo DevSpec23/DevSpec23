@@ -1,13 +1,7 @@
 # Eric Kim | Living In Canada | From South Korea
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDevSpec23&count_bg=%23E167A2&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-Hello, I'm Eric from Korea. I am currently staying in Canada, and it has been about 16 years. <br/>
-My current status is a permanent resident, and I have worked in various jobs in Canada. <br/>
-I'd appreciate it if you could read the details below.<br/>
-<br/>
-안녕하세요. 저는 현재 캐나다에서 거주하고 있는 영주권자이면서 한국 국적을 소유한 Eric Kim이라고 합니다.<br/>
-다양한 업종에서 회사생활과 개인사업자로 일을 했었으며, 개인 사업자로 경력은 4년정도 됩니다. 현재 우리나라<br/>
-와 캐나다 양쪽에서 활동할 계획을하고 있습니다. 
+현재 캐나다에서 거주중이며 2024년 안으로 한국으로 귀국할 예정입니다.
 
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white" style="height : 30px; margin-left : 10px; margin-right : 10px;"/> 
 
